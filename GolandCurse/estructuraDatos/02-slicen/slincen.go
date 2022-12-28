@@ -25,5 +25,7 @@ func main() {
 
 	// esto quuiere decir que los slicen son refenciados de array padres pore so cuando se modifica el arrreglo padre los slince son modificados
 
-	// caracterusticas de slicen.  
+	// caracterusticas de slicen.
+
+	//Creo esta nota para valiar cambio en git remoto
 }
