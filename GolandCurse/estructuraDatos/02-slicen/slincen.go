@@ -28,4 +28,18 @@ func main() {
 	// caracterusticas de slicen.
 
 	//Creo esta nota para valiar cambio en git remoto
+
+	// las caracteristicas de un slicen
+	// Puntero = para saber donde inicia y termina
+	// logitud =
+	//Capacidad =
+
+	meses := []string{"Enero", "Febrero", "Marzo"}
+
+	fmt.Printf(" len: %v, Cap: %v, %p \n", len(meses), cap(meses), meses)
+
+	meses = append(meses, "Abril")
+
+	fmt.Printf(" len: %v, Cap: %v, %p \n", len(meses), cap(meses), meses)
+
 }
